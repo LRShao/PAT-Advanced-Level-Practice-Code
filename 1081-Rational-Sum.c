@@ -78,7 +78,7 @@ int main()
 
     if ( outputNumerator != 0){
         if ( outputInt != 0 ) printf(" ");
-        // This conditional is important for correct output format 
+        // This condition is important for correct output format 
         outputNumerator /= gcf;
         outputDenominator /=gcf;
         printf("%lld/%lld", outputNumerator, outputDenominator);
