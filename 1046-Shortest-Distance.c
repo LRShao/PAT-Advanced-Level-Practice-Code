@@ -3,7 +3,6 @@
 #define MAX_NUMBER_OF_EXITS 100001
 
 // in order to avoid timeout, store the accumulative distance instead of interval distance
-
 int main() {
     int N;
     long int accumulativeDistance[ MAX_NUMBER_OF_EXITS ] = {0};
