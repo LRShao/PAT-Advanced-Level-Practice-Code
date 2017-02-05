@@ -151,6 +151,7 @@ int main() {
             if ( highPlace != 0 ) {
                 print_mars_number_high( highPlace );
             
+            // if lowPlace == 0, sample indicates there is no need to print tret   
                 if ( lowPlace != 0) {
                     putchar(' ');
                     print_mars_number_low( lowPlace );
