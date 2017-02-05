@@ -24,7 +24,6 @@ int main() {
     long int onewayDistance;
     for( int j = 1; j <= M; j++ ) {
         scanf("\n%d %d", &E1, &E2 );
-        // decrease runtime
 
         if ( E2 < E1 ) {
             int t  = E1;
