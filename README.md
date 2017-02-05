@@ -1,6 +1,6 @@
 A place to store some practice code for PAT(Advanced Level) problem set I wrote in C, which passed the online tests and gained full score. I am just a newbie in programming so the code is sure to lack elegancy and simplicity and can be improved in many ways, but anyway, this is just for idea-sharing and record : )
 
-Although all code is written in C, it is still recommended to choose C++ (g++ 4.7.2) as compiler, just for better performance in time-sensitive problems.
+It is recommended to choose C++ (g++ 4.7.2) as compiler, just for better performance in time-sensitive problems.
 
 Below are some solutions (mostly in C++) that I referred to when debugging.
 
