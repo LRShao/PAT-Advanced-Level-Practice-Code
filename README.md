@@ -6,4 +6,4 @@ Below are some solutions (mostly in C++) that I referred to when debugging.
 
 [1] zhoufenqi http://blog.csdn.net/zhoufenqin/article/details/50497791;
 
-[2] 柳婼 www.liuchuo.net;
+[2] 柳婼 https://github.com/liuchuo/PAT;
