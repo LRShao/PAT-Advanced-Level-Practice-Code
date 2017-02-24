@@ -1,5 +1,4 @@
 #include <algorithm>
-#include <math.h>
 #include <stdio.h>
 
 #define MAX_NUMBER_OF_INPUT 1000
